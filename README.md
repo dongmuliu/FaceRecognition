@@ -7,5 +7,13 @@
 Windows 10
 
 VS2013
-新增加判别库及优化部分代码
-基于VS2013 opencv2.4.13 
+
+Opencv2.4.13
+
+# Contents
+* 获取 OpenNI 的相机数据流
+* 调用opencv转化成Mat类型数据
+* 利用区域生长算法捕获疑似人脸区域
+* 通过Seetaface人脸识别引擎进行再次判别，得到最终人脸图像，为感兴趣区域单独显示。
+
+# Result
