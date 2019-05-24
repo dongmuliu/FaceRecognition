@@ -17,3 +17,5 @@ Opencv2.4.13
 * 通过Seetaface人脸识别引擎进行再次判别，得到最终人脸图像，为感兴趣区域单独显示。
 
 # Result
+
+![image](https://github.com/dongmuliu/FaceRecognition/blob/master/image.gif)   
